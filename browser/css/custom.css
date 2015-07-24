@@ -168,14 +168,14 @@ ul.scroll-menu {
 /** Navigation breadcrumb (on navigation bar) **/
 
 .navbar-default .navbar-brand {
-    color: #f5f5f5;
+    color: #FFFFFF;
 }
 .navbar-default .navbar-brand:hover {
-    color: #f5f5f5;
+    color: #FFFFFF;
 }
 .navbar-default {
-    background-color: #ED9C06;
-    border-color: #000000;
+    background-color: #FFFFFF;
+    border-color: #73D216;
 }
 .navbar-default .navbar-toggle {
     background-color: #FFFFFF;
@@ -203,5 +203,9 @@ ul.scroll-menu {
 /** Links **/
 
 a{
-   color: #ED9C06;
+   color: #73D216;
  }
+
+a:hover,
+a:focus {
+  color: ##2E3436;

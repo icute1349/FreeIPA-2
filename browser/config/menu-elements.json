@@ -1,0 +1,37 @@
+{
+    "menu":{
+	"scm": [
+            "companies",
+            "companies-summary",
+            "contributors",
+            "countries",
+            "domains",
+            "projects",
+            "repos"
+	],
+	"mls": [
+            "companies",
+            "contributors",
+            "countries",
+            "domains",
+            "projects",
+            "repos"
+	],
+	"studies": [
+            "demographics"
+	],
+	"its": [
+            "companies",
+            "contributors",
+            "countries",
+            "domains",
+            "projects",
+            "repos",
+            "states"
+	],
+	"wiki": [],
+        "project_map-OFF": []
+    },
+    "releases":[],
+    "threads_site":"https://https://www.freeipa.org/"
+}

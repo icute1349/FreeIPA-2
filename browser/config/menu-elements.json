@@ -4,17 +4,13 @@
             "companies",
             "companies-summary",
             "contributors",
-            "countries",
             "domains",
-            "projects",
             "repos"
 	],
 	"mls": [
             "companies",
             "contributors",
-            "countries",
             "domains",
-            "projects",
             "repos"
 	],
 	"studies": [
@@ -23,9 +19,7 @@
 	"its": [
             "companies",
             "contributors",
-            "countries",
             "domains",
-            "projects",
             "repos",
             "states"
 	],

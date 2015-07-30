@@ -30,7 +30,8 @@ python build_panel.py --template body.template --content common/list-of-filters.
 python build_panel.py --template body.template --content common/list-of-filters.tmpl --conf conf/main.conf --panel its-domains > ../browser/its-domains.html
 python build_panel.py --template body.template --content common/list-of-filters.tmpl --conf conf/main.conf --panel its-projects > ../browser/its-projects.html
 python build_panel.py --template body.template --content common/list-of-filters.tmpl --conf conf/main.conf --panel its-repos > ../browser/its-repos.html
-python apply_template.py --template body.template --content its/states.tmpl > ../browser/its-states.html
+#python apply_template.py --template body.template --content its/states.tmpl > ../browser/its-states.html
+python apply_template.py --template body.template --content its/states-trac.tmpl > ../browser/its-states.html
 
 
 # its_1

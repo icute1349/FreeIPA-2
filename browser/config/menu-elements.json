@@ -1,25 +1,25 @@
 {
     "menu":{
 	"scm": [
-            "companies",
-            "companies-summary",
             "contributors",
             "domains",
+            "organizations",
+            "organizations-summary",
             "repos"
 	],
 	"mls": [
-            "companies",
             "contributors",
             "domains",
+            "organizations",
             "repos"
 	],
 	"studies": [
             "demographics"
 	],
 	"its": [
-            "companies",
             "contributors",
             "domains",
+            "organizations",
             "repos",
             "states"
 	],
